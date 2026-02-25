@@ -1,7 +1,7 @@
 geometry_path = "/eos/user/j/jrimmer/Geometry"
 
 import sys
-sys.path.insert(0, geometry_oath)
+sys.path.insert(0, geometry_path)
 sys.path.insert(0, "../")
 sys.path.insert(0, "../../")
 from Geometry.Device import Device
